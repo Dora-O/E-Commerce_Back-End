@@ -6,6 +6,7 @@ Built the back end and connected it to the starter code (front end).
 Configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
 User will need to create a .env file and input their user and password info like the following:
+
 DB_USER=root
 DB_PW='userpassword'
 DB_NAME='ecommerce_db'
@@ -29,9 +30,12 @@ User will also be able to post, put and delete to categories, products and tags.
 
 ## Link to walkthrough videos
 [Initial Set-up](https://youtu.be/Lv1RJfxA_Kc)
+
 [Get, Post, Put & Delete](https://youtu.be/rn7QF4rh-6I)
 
 ## Screenshots:
 <img src = "https://user-images.githubusercontent.com/70343136/113466918-20bdf780-9405-11eb-9d61-c2af77a0b370.png">
+
 <img src = "https://user-images.githubusercontent.com/70343136/113466919-21ef2480-9405-11eb-88de-55fae8237f2c.png">
+
 <img src = "https://user-images.githubusercontent.com/70343136/113466921-2287bb00-9405-11eb-9b06-6885cceddc7f.png">
