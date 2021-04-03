@@ -8,7 +8,9 @@ Configured a working Express.js API to use Sequelize to interact with a MySQL da
 User will need to create a .env file and input their user and password info like the following:
 
 DB_USER=root
+
 DB_PW='userpassword'
+
 DB_NAME='ecommerce_db'
 
 User will need to use MySQL for the schema and command line to seed database.
